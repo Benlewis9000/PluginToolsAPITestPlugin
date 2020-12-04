@@ -1,0 +1,5 @@
+name: PluginToolsAPITestPlugin
+version: 1.0.0
+author: Anarchist
+main: Main
+api-version: 1.13
